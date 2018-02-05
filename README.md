@@ -14,7 +14,7 @@ The three distinct and rather dissimilar patterns that emerged from the word fre
 
 Word-level analysis presented the overall sentiment scores as well as changes in sentiment throughout the trajectory of each author's narrative. Lovecraft's text champions negativity, which is heartily maintained throughout his entire narrative. Mary Shelley's text, while the most positive in nature, exhibits extremes, indicating greater fluctations between positive and negative moods, while Poe's is relatively stable. 
 
-A bi-gram sentiment analysis was then performed to correct for the possibility of negating words making erroneous contributions to the sentiment score. For example, words preceded by negating words like "never" and "not" should be reversed to increase the sentiment score towards positivity. Indeed, the bigram analysis corrected the initial sentiment scores. What's more interesting to note is that the bigram analysis revealed more negativity in Lovecraft's text while making Poe's and Shelley's more positive. Lovecraft's text surpassed both authors' texts in terms of negative by over 3000 points. 
+A bi-gram sentiment analysis was then performed to correct for the possibility of negating words making erroneous contributions to the sentiment score. For example, words preceded by negating words like "never" and "not" should be reversed to increase the sentiment score towards positivity. Indeed, the bigram analysis corrected the initial sentiment scores. What's more interesting to note is that the bigram analysis revealed more negativity in Lovecraft's text while making Poe's and Shelley's more positive. Lovecraft's text surpassed both authors' texts in terms of negative by over 3,000 points. 
 
 ![](./figs/MWS_befaft.png)
 
