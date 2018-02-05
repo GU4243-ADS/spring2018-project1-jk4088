@@ -7,13 +7,13 @@ I began my spooky text study with an exploratory data analysis that analyzed sen
 
 ![](./figs/wordcloud.png)
 
-The three distinct and rather dissimilar patterns that emerged from the word frequency analysis prompted me to conduct a sentiment analysis, in order to find out if these themes indeed map back to the entire narrative. 
+The patterns that emerged from the word frequency analysis prompted me to conduct a sentiment analysis, in order to find out if these themes indeed map back to the entire narrative. 
 
 ### Sentiment Analysis with Words 
 
-![](./figs/sent_changes1.png)
+Word-level sentiment analysis presented the overall sentiment scores as well as changes in sentiment throughout the trajectory of each author's narrative. Lovecraft's text champions negativity, which is heartily maintained throughout his entire narrative. Mary Shelley's text, while the most positive in nature, exhibits extremes, indicating greater fluctations between positive and negative moods, while Poe's is relatively stable. 
 
-Word-level analysis presented the overall sentiment scores as well as changes in sentiment throughout the trajectory of each author's narrative. Lovecraft's text champions negativity, which is heartily maintained throughout his entire narrative. Mary Shelley's text, while the most positive in nature, exhibits extremes, indicating greater fluctations between positive and negative moods, while Poe's is relatively stable. 
+![](./figs/sent_changes1.png)
 
 ### A Re-investigation of Sentiment with Bigrams
 
