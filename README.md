@@ -8,7 +8,7 @@ I began my spooky text study with an exploratory data analysis that analyzed sen
 
 ![](./figs/wordcloud.png)
 
-The three distinct and rather dissimilar patterns that emerged from the word frequency analysis prompted me to conduct sentiment analysis, in order to find out if these themes indeed map back to the entire narrative. 
+The three distinct and rather dissimilar patterns that emerged from the word frequency analysis prompted me to conduct a sentiment analysis, in order to find out if these themes indeed map back to the entire narrative. 
 
 ![](./figs/sent_changes1.png)
 
