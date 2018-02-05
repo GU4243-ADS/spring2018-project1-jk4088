@@ -4,7 +4,7 @@
 
 Edgar Allan Poe, Mary Wollstonecraft Shelley, and H.P. Lovecraft are famous for their tales of mystery and horror. The files contain my investigation of the authors' texts using various text mining approaches, including sentiment analysis and character exploration. 
 
-I began my spooky text study with an exploratory data analysis that analyzed word frequencies. 
+I began my spooky text study with an exploratory data analysis that analyzed sentence attributions and word frequencies. 
 
 ![](../figs/EAP_wordcloud.png)
 
