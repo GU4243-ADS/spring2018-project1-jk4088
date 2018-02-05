@@ -6,11 +6,11 @@ Edgar Allan Poe, Mary Wollstonecraft Shelley, and H.P. Lovecraft are famous for 
 
 I began my spooky text study with an exploratory data analysis that analyzed sentence attributions and word frequencies. 
 
-![](../figs/wordcloud.png)
+![](../figs/wordcloud.png = 50 x 50)
 
 The three distinct and rather dissimilar patterns that emerged from the word frequency analysis prompted me to conduct sentiment analysis, in order to find out if these themes indeed map back to the entire narrative. 
 
-![](../figs/sent_changes.png)
+![](../figs/sent_changes1.png)
 
 Word-level analysis presented the overall sentiment scores as well as changes in sentiment throughout the trajectory of each author's narrative. Lovecraft's text champions negativity, which is heartily maintained throughout his entire narrative. Mary Shelley's text, while the most positive in nature, exhibits extremes, indicating greater fluctations between positive and negative moods, while Poe's is relatively stable. 
 
